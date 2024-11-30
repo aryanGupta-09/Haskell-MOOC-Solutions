@@ -2,9 +2,6 @@
 Solutions to the online functional programming course, Haskell MOOC, available at https://haskell.mooc.fi/<br>
 The course comprises Functional Programming I and II, offered by the University of Helsinki.
 
-## Tech Stack
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="55" height="45" alt="Haskell" /></a>
-
 ## Installation
 
 1. Clone the repo
